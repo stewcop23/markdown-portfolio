@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**50% of being Bi**
+_50% of being pan_
+
+_100% **BAD** at math_
+
